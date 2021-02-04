@@ -14,7 +14,7 @@ Usage:
 - Update credentials for your edupage in settings.json
 - Update school URL in settings.json
 - Update lesson times in settings.json
-- Run by double-clicking sps.py or py .\main.py in PowerShell.
+- Run by double-clicking sps.py or py .\sps.py in PowerShell.
 
 Troubleshooting:
 - Error when running file, module is missing. Install given module using py -m pip install
