@@ -1,0 +1,14 @@
+{
+"Login":{
+    "username":"un",
+    "password":"pw"
+},
+"School":{
+    "edupageurl":"https://school.edupage.org",
+    "starts":["7:45","8:36","9:26","10:26","11:16"]
+},
+"Zoom":{
+    "path":"C:\\Users\\ahooo\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe",
+    "messages":["Dobry, nejde mi mikrofon.","Dobry, prestal mi fungovat mikrofon.","Dobry, mne nefunguje mikrofon.","Dobry pokazil sa mi mikrofon, pracujem na jeho oprave.","Dobry, mam nefunkcny mikrofon."]
+}
+}
